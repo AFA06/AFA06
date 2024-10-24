@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Abdurashid Fattokhov<br><br>👀 I’m interested in software development, artificial intelligence, and creating innovative technology solutions that enhance user experiences.<br><br>🌱 I’m currently learning more about advanced programming techniques, algorithms, and AI applications in real-world projects.<br><br>💞️ I’m looking to collaborate on open-source projects, especially those related to web development, AI, and system management. I'm also open to opportunities that involve event organization and tech community engagement.<br><br>📫 How to reach me: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/abdurashid-fattokhov-4587ba308?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+👋 Hi, I’m Abdurashid Fattokhov <br><br>👀 I’m interested in software development, artificial intelligence, and creating innovative technology solutions that enhance user experiences.<br><br>🌱 I’m currently learning more about advanced programming techniques, algorithms, and AI applications in real-world projects.<br><br>💞️ I’m looking to collaborate on open-source projects, especially those related to web development, AI, and system management. I'm also open to opportunities that involve event organization and tech community engagement.<br><br>📫 How to reach me: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/abdurashid-fattokhov-4587ba308?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
  or email me at fattokhovabdurashid@gmail.com.<br><br>😄 Pronouns: he/him<br><br>⚡ Fun fact: I founded the Uzbek Society at Brunel University and have a passion for exploring cultural events that bring people together!
 
 
@@ -16,11 +16,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=53R3N17&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ My Quote
+### ✍️ Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=53R3N17&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!---
