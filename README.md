@@ -1,7 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Abdurashid Fattokhov <br><br>👀 I’m interested in software development, artificial intelligence, and creating innovative technology solutions that enhance user experiences.<br><br>🌱 I’m currently learning more about advanced programming techniques, algorithms, and AI applications in real-world projects.<br><br>💞️ I’m looking to collaborate on open-source projects, especially those related to web development, AI, and system management. I'm also open to opportunities that involve event organization and tech community engagement.<br><br>📫 How to reach me: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/abdurashid-fattokhov-4587ba308?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
- or email me at fattokhovabdurashid@gmail.com.<br><br>😄 Pronouns: he/him<br><br>⚡ Fun fact: I founded the Uzbek Society at Brunel University and have a passion for exploring cultural events that bring people together!
-
+👋 Hi, I’m Abdurashid Fattokhov <br><br>👀 I’m interested in software development, artificial intelligence, and creating innovative technology solutions that enhance user experiences.<br><br>🌱 I’m currently learning more about advanced programming techniques, algorithms, and AI applications in real-world projects.<br><br>💞️ I’m looking to collaborate on open-source projects, especially those related to web development, AI, and system management. I'm also open to opportunities that involve event organization and tech community engagement.<br><br>📫 How to reach me: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/abdurashid-fattokhov-4587ba308?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) or email me at fattokhovabdurashid@gmail.com.<br><br>🌐 Check out [My Portfolio](https://afa06.github.io/My_Portfolio/)<br><br>😄 Pronouns: he/him<br><br>⚡ Fun fact: I founded the Uzbek Society at Brunel University and have a passion for exploring cultural events that bring people together!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdurashid_fattokho1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdurashid-fattokhov-4587ba308?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Abdurashid_Fattokhov) 
@@ -23,11 +21,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=AFA06&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!---
 53R3N17/53R3N17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
-
 --->
-
